@@ -9,6 +9,7 @@ The Application Is called Smart Statement
 **1.Running The application**
 
 1. To first run the application go into Github and click on "Smart Statement Program" in the repo or section 2.5 of the read me "Smart Statement Program"
+2. Once on the "Smart Statement Program" Page open in Colab Which should be in the top of the page
 
 
 
