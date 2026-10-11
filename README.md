@@ -13,7 +13,10 @@ The Application Is called Smart Statement
 
 ![image alt](https://github.com/RB1Student/ISYS2001-Assignment-2-Project/blob/c9f1ec4a83bb861f93498949f4287bd5b5632c1f/RM1.png)
 
+3. Once in the Colab Folder Make sure Outputs are Cleared and the then press the run icon
 
+![image alt](https://github.com/RB1Student/ISYS2001-Assignment-2-Project/blob/main/RM2.png)
+![image alt](https://github.com/RB1Student/ISYS2001-Assignment-2-Project/blob/main/RM3.png)
 
 
 
