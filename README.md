@@ -6,6 +6,16 @@ The Application Is called Smart Statement. It turns Bankstatements in CSV file f
 *Quick Notes*
 - For the developer Diary it in a ipynb format this is because I started Makeing it in Colab, after I Finished I then realised it Needed to be in MarkDown format, I tryed to use VScode to convert it over with a nbcovert Tool, which could covert,however left the image out, so the Developer Diary you should use to mark should be (Developer_Diary4a.ipynb) Found in Section 2.3 of this Project
 
+Doing Some reseach I found out you can't Manually adjust the order of the files in the repo, so I decided to add the work in a naming Convention/code.
+- ReadMe(By it Self)
+- RM(Are the Photo for ReadMe)
+- Application (By It Self
+- 1 is [Project/Application Work]
+- 2 is [Data]
+- 3 is [Testing]
+- 4 Is [Early Colab Six Steps and PsuedoCode]
+  
+
 
 ## **1.Running The application**
 (Before Running Program Download the CSV dataset found in **section 2.1** of read me to be used in the program)
