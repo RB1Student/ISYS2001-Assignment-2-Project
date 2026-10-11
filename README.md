@@ -87,7 +87,12 @@ _The results, which the Ai Google Gemeni Chat bot gave some good recommendations
 
 _Where to find the Account Tab_
 
+
+
 ![image alt](https://github.com/RB1Student/ISYS2001-Assignment-2-Project/blob/main/RM15.png)
+
+
+
 
 _Where to Log off the application, (you have to Log off to put in another CSV File)_
 
