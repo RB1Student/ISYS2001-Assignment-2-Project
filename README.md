@@ -46,7 +46,50 @@ _Clear button_
 
 _Load my Statement Button_
 
+7. Once you have pressed the load Statement Button, you would automatically be moved in the dashboard, where you can explore and analyse your data in the dash board.
 
+![image alt](https://github.com/RB1Student/ISYS2001-Assignment-2-Project/blob/main/RM8.png)
+
+_Dashboard Screen_
+
+8. If you want to filter your data you can use the drop down to filter by Month or By Category near the top of the dashbaord which is shown below, this changes the dashboard and show infomation related to the filters you have picked:
+
+![image alt](https://github.com/RB1Student/ISYS2001-Assignment-2-Project/blob/main/RM9.png)
+
+_Filters for Month and Category_
+
+9. You can then use the chatbot by selecting the "ChatBot" in the program which is show below:
+
+![image alt](https://github.com/RB1Student/ISYS2001-Assignment-2-Project/blob/main/RM10.png)
+
+_Tab for the chat bot_
+
+![image alt](https://github.com/RB1Student/ISYS2001-Assignment-2-Project/blob/main/RM11.png)
+
+_Chat bot screen_
+
+10. Type a question relation to your financial statement in the chatbot box and send. for example:
+- What was largest Expense in December 2026?
+- What are 3 ways I could lower my expenses?
+- What is my Main souce of income?
+
+![image alt](https://github.com/RB1Student/ISYS2001-Assignment-2-Project/blob/main/RM12.png)
+
+_Typing a question for the Finance Chat bot_
+
+![image alt](https://github.com/RB1Student/ISYS2001-Assignment-2-Project/blob/main/RM13.png)
+
+_The results, which the Ai Google Gemeni Chat bot gave some good recommendations_
+
+11. Lastly to Log out Click on the Account Tab, And Press the Red Log off button
+
+![image alt](https://github.com/RB1Student/ISYS2001-Assignment-2-Project/blob/main/RM%2014.png)
+
+_Where to find the Account Tab_
+
+![image alt](https://github.com/RB1Student/ISYS2001-Assignment-2-Project/blob/main/RM15.png)
+
+_Where to Log off the application, (you have to Log off to put in another CSV File)_
 
 
 
