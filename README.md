@@ -7,6 +7,7 @@ The Application Is called Smart Statement
 
 
 ## **1.Running The application**
+(Before Running Program Download the CSV dataset found in **section 2.1** of read me to be used in the program)
 
 1. To first run the application go into Github and click on "Smart Statement Program" in the repo or section 2.5 of the read me "Smart Statement Program"
 2. Once on the "Smart Statement Program" Page open in Colab Which should be in the top of the page
@@ -25,6 +26,15 @@ _Where to Clear the output_
 _The program run button_
 
 4. Once you have pressed the Run Button the program will be below the code, so scroll down to the bottom of the Colab Cell.
+
+![image alt](https://github.com/RB1Student/ISYS2001-Assignment-2-Project/blob/main/RM4.png)
+_The Program looks like when frist ran_
+
+5. Since you are in the Account Tab, Input your Name into the name box and upload one of the provided csv bankstatement files like down below:
+
+   
+
+
 
 
 
