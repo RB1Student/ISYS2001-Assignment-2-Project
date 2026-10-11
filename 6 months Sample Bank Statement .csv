@@ -1,0 +1,128 @@
+,,Name,Type,Expense,Balance,Income,Date
+,,Opening Balance,Balance,,"$5,000.00 ",,1/9/2026
+,,Gym Membership,Expense,$55.00 ,"$4,945.00 ",,2/9/2026
+,,Salary,Income,,"$7,945.00 ","$3,000.00 ",3/9/2026
+,,Supermarket,Expense,$116.59 ,"$7,828.41 ",,3/9/2026
+,,Phone Bill,Expense,$45.00 ,"$7,783.41 ",,4/9/2026
+,,Streaming Subscription,Expense,$16.99 ,"$7,766.42 ",,7/9/2026
+,,Supermarket,Expense,$150.70 ,"$7,615.72 ",,9/9/2026
+,,Fuel Station,Expense,$80.45 ,"$7,535.27 ",,9/9/2026
+,,Restaurant,Expense,$82.51 ,"$7,452.76 ",,9/9/2026
+,,Coffee Shop,Expense,$18.50 ,"$7,434.26 ",,12/9/2026
+,,Water Bill,Expense,$100.53 ,"$7,333.73 ",,15/9/2026
+,,Supermarket,Expense,$131.62 ,"$7,202.11 ",,16/9/2026
+,,Medical Centre,Expense,$65.00 ,"$7,137.11 ",,16/9/2026
+,,Coffee Shop,Expense,$5.50 ,"$7,131.61 ",,18/9/2026
+,,Transfer Received,Income,,"$7,531.61 ",$400.00 ,19/9/2026
+,,Restaurant,Expense,$48.22 ,"$7,483.39 ",,20/9/2026
+,,Fuel Station,Expense,$72.27 ,"$7,411.12 ",,21/9/2026
+,,Coffee Shop,Expense,$5.50 ,"$7,405.62 ",,23/9/2026
+,,Supermarket,Expense,$88.00 ,"$7,317.62 ",,25/9/2026
+,,Rent,Expense,"$1,500.00 ","$5,817.62 ",,25/9/2026
+,,Internet Bill,Expense,$79.00 ,"$5,738.62 ",,28/9/2026
+,,Gym Membership,Expense,$55.00 ,"$5,683.62 ",,1/10/2026
+,,Salary,Income,,"$8,683.62 ","$3,000.00 ",3/10/2026
+,,Phone Bill,Expense,$45.00 ,"$8,638.62 ",,4/10/2026
+,,Supermarket,Expense,$130.67 ,"$8,507.95 ",,4/10/2026
+,,Fuel Station,Expense,$84.11 ,"$8,423.84 ",,6/10/2026
+,,Streaming Subscription,Expense,$16.99 ,"$8,406.85 ",,7/10/2026
+,,Grocery Store,Expense,$99.46 ,"$8,307.39 ",,11/10/2026
+,,Electricity Bill,Expense,$140.98 ,"$8,166.41 ",,12/10/2026
+,,Restaurant,Expense,$90.43 ,"$8,075.98 ",,13/10/2026
+,,Coffee Shop,Expense,$14.00 ,"$8,061.98 ",,15/10/2026
+,,Grocery Store,Expense,$136.11 ,"$7,925.87 ",,18/10/2026
+,,Pharmacy,Expense,$24.61 ,"$7,901.26 ",,18/10/2026
+,,Restaurant,Expense,$64.48 ,"$7,836.78 ",,19/10/2026
+,,Fuel Station,Expense,$82.41 ,"$7,754.37 ",,21/10/2026
+,,Coffee Shop,Expense,$14.00 ,"$7,740.37 ",,22/10/2026
+,,Coffee Shop,Expense,$14.00 ,"$7,726.37 ",,23/10/2026
+,,Supermarket,Expense,$128.82 ,"$7,597.55 ",,24/10/2026
+,,Rent,Expense,"$1,500.00 ","$6,097.55 ",,25/10/2026
+,,Freelance Payment,Income,,"$6,947.55 ",$850.00 ,27/10/2026
+,,Internet Bill,Expense,$79.00 ,"$6,868.55 ",,28/10/2026
+,,Gym Membership,Expense,$55.00 ,"$6,813.55 ",,1/11/2026
+,,Salary,Income,,"$9,813.55 ","$3,000.00 ",3/11/2026
+,,Supermarket,Expense,$143.36 ,"$9,670.19 ",,3/11/2026
+,,Phone Bill,Expense,$45.00 ,"$9,625.19 ",,4/11/2026
+,,Streaming Subscription,Expense,$16.99 ,"$9,608.20 ",,7/11/2026
+,,Fuel Station,Expense,$70.98 ,"$9,537.22 ",,9/11/2026
+,,Grocery Store,Expense,$163.41 ,"$9,373.81 ",,10/11/2026
+,,Restaurant,Expense,$99.60 ,"$9,274.21 ",,10/11/2026
+,,Car Insurance,Expense,$420.00 ,"$8,854.21 ",,10/11/2026
+,,Clothing Store,Expense,$118.49 ,"$8,735.72 ",,12/11/2026
+,,Coffee Shop,Expense,$11.50 ,"$8,724.22 ",,15/11/2026
+,,Grocery Store,Expense,$118.45 ,"$8,605.77 ",,16/11/2026
+,,Fuel Station,Expense,$89.11 ,"$8,516.66 ",,20/11/2026
+,,Transfer Received,Income,,"$8,916.66 ",$400.00 ,21/11/2026
+,,Medical Centre,Expense,$65.00 ,"$8,851.66 ",,21/11/2026
+,,Coffee Shop,Expense,$11.50 ,"$8,840.16 ",,23/11/2026
+,,Supermarket,Expense,$159.66 ,"$8,680.50 ",,24/11/2026
+,,Coffee Shop,Expense,$14.00 ,"$8,666.50 ",,24/11/2026
+,,Rent,Expense,"$1,500.00 ","$7,166.50 ",,25/11/2026
+,,Restaurant,Expense,$96.80 ,"$7,069.70 ",,26/11/2026
+,,Internet Bill,Expense,$79.00 ,"$6,990.70 ",,28/11/2026
+,,Gym Membership,Expense,$55.00 ,"$6,935.70 ",,1/12/2026
+,,Salary,Income,,"$9,935.70 ","$3,000.00 ",3/12/2026
+,,Grocery Store,Expense,$131.24 ,"$9,804.46 ",,3/12/2026
+,,Phone Bill,Expense,$45.00 ,"$9,759.46 ",,4/12/2026
+,,Fuel Station,Expense,$82.34 ,"$9,677.12 ",,6/12/2026
+,,Streaming Subscription,Expense,$16.99 ,"$9,660.13 ",,7/12/2026
+,,Coffee Shop,Expense,$6.00 ,"$9,654.13 ",,9/12/2026
+,,Supermarket,Expense,$107.77 ,"$9,546.36 ",,11/12/2026
+,,Electricity Bill,Expense,$136.16 ,"$9,410.20 ",,12/12/2026
+,,Restaurant,Expense,$74.20 ,"$9,336.00 ",,13/12/2026
+,,Online Shopping,Expense,$189.95 ,"$9,146.05 ",,14/12/2026
+,,Water Bill,Expense,$105.76 ,"$9,040.29 ",,15/12/2026
+,,Clothing Store,Expense,$116.51 ,"$8,923.78 ",,16/12/2026
+,,Grocery Store,Expense,$112.76 ,"$8,811.02 ",,17/12/2026
+,,Coffee Shop,Expense,$14.00 ,"$8,797.02 ",,17/12/2026
+,,Department Store,Expense,$236.40 ,"$8,560.62 ",,19/12/2026
+,,Christmas Bonus,Income,,"$9,060.62 ",$500.00 ,20/12/2026
+,,Coffee Shop,Expense,$5.50 ,"$9,055.12 ",,20/12/2026
+,,Fuel Station,Expense,$89.21 ,"$8,965.91 ",,21/12/2026
+,,Supermarket,Expense,$98.44 ,"$8,867.47 ",,24/12/2026
+,,Restaurant,Expense,$63.06 ,"$8,804.41 ",,25/12/2026
+,,Rent,Expense,"$1,500.00 ","$7,304.41 ",,25/12/2026
+,,Freelance Payment,Income,,"$8,154.41 ",$850.00 ,27/12/2026
+,,Internet Bill,Expense,$79.00 ,"$8,075.41 ",,28/12/2026
+,,Gym Membership,Expense,$55.00 ,"$8,020.41 ",,1/1/2027
+,,Salary,Income,,"$11,020.41 ","$3,000.00 ",3/1/2027
+,,Grocery Store,Expense,$155.74 ,"$10,864.67 ",,3/1/2027
+,,Phone Bill,Expense,$45.00 ,"$10,819.67 ",,4/1/2027
+,,Streaming Subscription,Expense,$16.99 ,"$10,802.68 ",,7/1/2027
+,,Fuel Station,Expense,$76.57 ,"$10,726.11 ",,7/1/2027
+,,Supermarket,Expense,$91.64 ,"$10,634.47 ",,9/1/2027
+,,Restaurant,Expense,$74.68 ,"$10,559.79 ",,9/1/2027
+,,Movie Cinema,Expense,$42.00 ,"$10,517.79 ",,9/1/2027
+,,Coffee Shop,Expense,$6.00 ,"$10,511.79 ",,15/1/2027
+,,Supermarket,Expense,$137.68 ,"$10,374.11 ",,16/1/2027
+,,Medical Centre,Expense,$80.00 ,"$10,294.11 ",,16/1/2027
+,,Pharmacy,Expense,$20.28 ,"$10,273.83 ",,18/1/2027
+,,Fuel Station,Expense,$73.64 ,"$10,200.19 ",,20/1/2027
+,,Coffee Shop,Expense,$11.50 ,"$10,188.69 ",,22/1/2027
+,,Transfer Received,Income,,"$10,588.69 ",$400.00 ,23/1/2027
+,,Supermarket,Expense,$151.49 ,"$10,437.20 ",,23/1/2027
+,,Coffee Shop,Expense,$18.50 ,"$10,418.70 ",,24/1/2027
+,,Restaurant,Expense,$106.76 ,"$10,311.94 ",,24/1/2027
+,,Rent,Expense,"$1,500.00 ","$8,811.94 ",,25/1/2027
+,,Internet Bill,Expense,$79.00 ,"$8,732.94 ",,28/1/2027
+,,Gym Membership,Expense,$55.00 ,"$8,677.94 ",,1/2/2027
+,,Salary,Income,,"$11,677.94 ","$3,000.00 ",3/2/2027
+,,Phone Bill,Expense,$45.00 ,"$11,632.94 ",,4/2/2027
+,,Supermarket,Expense,$89.98 ,"$11,542.96 ",,4/2/2027
+,,Fuel Station,Expense,$93.72 ,"$11,449.24 ",,6/2/2027
+,,Streaming Subscription,Expense,$16.99 ,"$11,432.25 ",,7/2/2027
+,,Supermarket,Expense,$120.25 ,"$11,312.00 ",,9/2/2027
+,,Coffee Shop,Expense,$18.50 ,"$11,293.50 ",,11/2/2027
+,,Electricity Bill,Expense,$168.20 ,"$11,125.30 ",,12/2/2027
+,,Supermarket,Expense,$133.06 ,"$10,992.24 ",,16/2/2027
+,,Coffee Shop,Expense,$6.00 ,"$10,986.24 ",,17/2/2027
+,,Restaurant,Expense,$84.15 ,"$10,902.09 ",,19/2/2027
+,,Clothing Store,Expense,$98.71 ,"$10,803.38 ",,19/2/2027
+,,Fuel Station,Expense,$71.76 ,"$10,731.62 ",,20/2/2027
+,,Supermarket,Expense,$130.34 ,"$10,601.28 ",,23/2/2027
+,,Restaurant,Expense,$52.98 ,"$10,548.30 ",,23/2/2027
+,,Coffee Shop,Expense,$11.50 ,"$10,536.80 ",,25/2/2027
+,,Rent,Expense,"$1,500.00 ","$9,036.80 ",,25/2/2027
+,,Freelance Payment,Income,,"$9,786.80 ",$750.00 ,27/2/2027
+,,Internet Bill,Expense,$79.00 ,"$9,707.80 ",,28/2/2027
