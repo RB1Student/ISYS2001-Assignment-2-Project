@@ -32,11 +32,19 @@ _The Program looks like when frist ran_
 
 5. Since you are in the Account Tab, Input your Name into the name box and upload one of the provided csv bankstatement files like down below:
 
-   
+![image alt](https://github.com/RB1Student/ISYS2001-Assignment-2-Project/blob/main/RM5.png)
 
+_First where to enter your name, Second Where to upload the File_
 
+6. If you made a mistake and pick the wrong CSV you can press the "Orange Clear Button" otherwise once you pick the CSV you want to upload press Load my CSV. Which can be seen down below
 
+![image alt](https://github.com/RB1Student/ISYS2001-Assignment-2-Project/blob/main/RM7.png)
 
+_Clear button_
+
+![image alt](https://github.com/RB1Student/ISYS2001-Assignment-2-Project/blob/main/RM6.png)
+
+_Load my Statement Button_
 
 
 
