@@ -12,8 +12,11 @@ Doing Some reseach I found out you can't Manually adjust the order of the files 
 - Application (By It Self
 - 1 is [Project/Application Work]
 - 2 is [Data]
-- 3 is [Testing]
-- 4 Is [Early Colab Six Steps and PsuedoCode]
+- 3 IS [Developer Diary)
+- 4 is [Testing]
+- 5 Is [Early Colab Six Steps and PsuedoCode]
+
+  For all the Current Files i've left the code out, since the code is for past notebooks/projects etc. All the content should be at the bottom of the repo
   
 
 
