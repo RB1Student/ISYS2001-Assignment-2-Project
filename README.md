@@ -11,6 +11,9 @@ The Application Is called Smart Statement
 1. To first run the application go into Github and click on "Smart Statement Program" in the repo or section 2.5 of the read me "Smart Statement Program"
 2. Once on the "Smart Statement Program" Page open in Colab Which should be in the top of the page
 
+![image alt](https://github.com/RB1Student/ISYS2001-Assignment-2-Project/blob/c9f1ec4a83bb861f93498949f4287bd5b5632c1f/RM1.png)
+
+
 
 
 
