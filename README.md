@@ -1,7 +1,7 @@
 # ISYS2001-Assignment-2-Project
 This is a Repository for Curtin ISYS2001 Assessment 2 Project and contains code/ Colab Notebook, Read me, Develop Diary and Commit History
 
-The Application Is called Smart Statement
+The Application Is called Smart Statement. It turns Bankstatements in CSV file format into an interactive visualised dashboard and also has the feature of being connected Google Gemeni AI chatbot, to ask Finanicial Questions. This is because for personal finance, bank statements can be hard to understand due to the amount of the data in a table format so making it into a dashbaord makes it easy to understand. This is ment for Personal Finance, and the datasets provided to the the Smart Statement Program, are not real statements bank statement is to due to the risk of privacy If I did provide real bank statements.
 
 
 
@@ -87,12 +87,7 @@ _The results, which the Ai Google Gemeni Chat bot gave some good recommendations
 
 _Where to find the Account Tab_
 
-
-
-![image alt](https://github.com/RB1Student/ISYS2001-Assignment-2-Project/blob/main/RM15.png)
-
-
-
+![image alt][(https://github.com/RB1Student/ISYS2001-Assignment-2-Project/blob/main/RM16.png)
 
 _Where to Log off the application, (you have to Log off to put in another CSV File)_
 
