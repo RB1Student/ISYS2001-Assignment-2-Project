@@ -8,23 +8,23 @@ The Application Is called Smart Statement. It turns Bankstatements in CSV file f
 
 *Python Libraries needed*
 
-import io (To Convert CSV from Bytes into a readable format)
+import io (To Convert CSV bytes into a file object for pandas)
 
-import html (For the GUI used with the IPythin.display)
+import html (stops certain charaters breaking the page)
 
 import pandas as pd (For the Data Manipulation)
 
-import matplotlib.pyplot as plt (For the Pie and Bar Chart)
+import matplotlib.pyplot as plt (for the pie and bar charts)
 
-import ipywidgets as widgets (For the GUI function like Buttons and Drop Downs)
+import ipywidgets as widgets (for the GUI, like buttons, tabs and dropdowns)
 
-from IPython.display import display, HTML (To display the ipwidgets)
+from IPython.display import display, HTML (shows the widgets, tables and KPI cards)
 
-from google.colab import userdata (Google is for the Chatbot)
+from google.colab import userdata (gets the API key from Colab Secrets)
 
-from google import genai (Google is for the Chatbot)
+from google import genai (connects the chatbot to Gemini)
 
-from google.genai import types (Google is for the Chatbot)
+from google.genai import types (sets the chatbot's persona with the System Instructions)
 
 Doing Some reseach I found out you can't Manually adjust the order of the files in the repo, so I decided to add the work in a naming Convention/code.
 - ReadMe(By it Self)
