@@ -3,10 +3,10 @@ This is a Repository for Curtin ISYS2001 Assessment 2 Project and contains code/
 
 The Application Is called Smart Statement. It turns Bankstatements in CSV file format into an interactive visualised dashboard and also has the feature of being connected Google Gemeni AI chatbot, to ask Finanicial Questions. This is because for personal finance, bank statements can be hard to understand due to the amount of the data in a table format so making it into a dashbaord makes it easy to understand. This is ment for Personal Finance, and the datasets provided to the the Smart Statement Program, are not real statements bank statement is to due to the risk of privacy If I did provide real bank statements.
 
-*Quick Notes*
+**Quick Notes**
 - For the developer Diary it in a ipynb format this is because I started Makeing it in Colab, after I Finished I then realised it Needed to be in MarkDown format, I tryed to use VScode to convert it over with a nbcovert Tool, which could covert,however left the image out, so the Developer Diary you should use to mark should be (Developer_Diary4a.ipynb) Found in Section 2.3 of this Project
 
-*Python Libraries needed*
+**Python Libraries needed**
 
 import io (To Convert CSV bytes into a file object for pandas)
 
