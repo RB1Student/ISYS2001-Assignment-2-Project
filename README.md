@@ -6,6 +6,18 @@ The Application Is called Smart Statement. It turns Bankstatements in CSV file f
 *Quick Notes*
 - For the developer Diary it in a ipynb format this is because I started Makeing it in Colab, after I Finished I then realised it Needed to be in MarkDown format, I tryed to use VScode to convert it over with a nbcovert Tool, which could covert,however left the image out, so the Developer Diary you should use to mark should be (Developer_Diary4a.ipynb) Found in Section 2.3 of this Project
 
+*Python Libraries needed*
+
+import io (To Convert CSV from Bytes into a readable format)
+import html (For the GUI used with the IPythin.display)
+import pandas as pd (For the Data Manipulation)
+import matplotlib.pyplot as plt (For the Pie and Bar Chart)
+import ipywidgets as widgets (For the GUI function like Buttons and Drop Downs)
+from IPython.display import display, HTML (To display the ipwidgets)
+from google.colab import userdata (Google area is for the Chatbot)
+from google import genai
+from google.genai import types
+
 Doing Some reseach I found out you can't Manually adjust the order of the files in the repo, so I decided to add the work in a naming Convention/code.
 - ReadMe(By it Self)
 - RM(Are the Photo for ReadMe)
