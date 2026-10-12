@@ -186,6 +186,10 @@ Smart Statement  Program.ipynb
 
 https://github.com/RB1Student/ISYS2001-Assignment-2-Project/blob/8effc42ef66a13c1afc9f44bfa84ef9f243c6861/Smart%20Statement%20%20Program.ipynb
 
+**Short General Reflection**
+https://github.com/RB1Student/ISYS2001-Assignment-2-Project/blob/main/General%20Reflection#:~:text=General-,Reflection
+
+
 
 
 
