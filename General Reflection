@@ -1,1 +1,25 @@
 **Reflection**
+
+This is a short general reflection of some aspect of the Project Now that I have Finished and are Ready to Submit, 3 negative and 3 postive.
+
+(negative)
+
+1. Reseach more about Colab supporting Libary.
+- If I new that Tkinter didn't work with colab, at the start it would have save me from creating a pseudo code around Tkinter Libary, Where I could, have went straight into basing pesudo code around Ipwidgits
+
+2. Thinking about Github First, then creating project.
+- I wish I spent some more time learning how Github works, how files are saved and how folders are created, this would have made my repo more cleaner and nicee repo. It would have also saved me from Loosing some file and forgetting to save certain files are creating them in Colab.
+
+3. Asking AI to simplify code as I code.
+- In some areas for next time, I'll as AI to simplify the code anytime I use Ai to code, since sometime it produces code out of my level, and I have to simplify the code, however I only realise once I in a new Function. Creating a lot of back and forth to create code i understand and works.
+
+Postive
+
+1. Structure on how I code
+- I like how i was able to bit each small function first then add it together, For example Upload CSV FILE and clean, then KPI, then Barchart then pie chart etc. Then join them together at the end. This taught me about how to stucutre my code in projects, and that you don't have to think about each function building them all at once.
+
+2. Working with AI
+- AI was a Good Teaching Buddy thoughout the journey, gave me idea for example choosing Ipwidgets as an alternative to Tkinter or even where to place the chatbot code in the libary. It help me build the project but also learn what the function did. Help with learning and teaching and improving my project)
+
+3. The finished Application
+- I'm very happy with the program, since it runs and is able to work with the provided CSV, so being able to see a project working is very rewarding even if it was hard at time. Made me feel proud of my achievement.
