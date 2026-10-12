@@ -17,8 +17,20 @@ Doing Some reseach I found out you can't Manually adjust the order of the files 
 - 5 Is [Early Colab Six Steps and PsuedoCode]
 
   For all the Current Files i've left the code out, since the code is for past notebooks/projects etc. All the content should be at the bottom of the repo
-  
 
+  **Input/outputs**
+
+Inputs
+- Name in the Account Tab
+- CSV Bankstatement Data
+- Filters in the Dashboard for Month and Category
+- Google Gemeni Finance Chatbot Query/Question.
+
+Output
+- Name on Dashboard
+- CSV bankstatement data displayed on dashboard
+- Google Gemeni Chatbot answer questions
+  
 
 ## **1.Running The application**
 (Before Running Program Download the CSV dataset found in **section 2.1** of read me to be used in the program)
